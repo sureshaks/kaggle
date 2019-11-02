@@ -8,4 +8,4 @@ This repo contains my Kaggle kernels.
 
 2. <a href="https://github.com/sureshaks/kaggle/tree/master/wine-review" target="_blank">Wine Review</a> - Predicting the points of a wine-review.
 
-3. <a href="https://github.com/sureshaks/kaggle/tree/master/wine-review/pokemon" target="_blank">Pokemon</a> - Preliminary EDA to see Pokemon power trends.
+3. <a href="https://github.com/sureshaks/kaggle/tree/master/pokemon" target="_blank">Pokemon</a> - Preliminary EDA to see Pokemon power trends.
